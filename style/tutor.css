@@ -1,0 +1,50 @@
+.bg{
+    background-image: url(/images/bg_img.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.upload{
+    background-image: url(/images/teacher-plus.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.row{
+    margin: initial !important;
+}
+.teacher-text{
+    max-width: 500px;
+    margin-top: 40px;
+    padding: 60px;
+    background: #ffffff8c;
+    margin-bottom: 40px;
+}
+.teacher-text .btn{
+    width:100px;
+    display: block;
+    color: #fff !important;
+    background-color: rgba(0, 0, 0, 0.555);
+    text-align: center;
+    text-decoration: none;
+    padding: .3px;
+    border-radius: 18px;
+}
+
+.title-img{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.thank-box{
+    margin: auto;
+    width: 90%;
+    background: rgba(255, 255, 255, 0.76);
+    border: 2px rgba(0, 0, 0, 0.226);
+    border-radius: 7px;
+}
+.thank-text{
+    margin: 20px;
+    padding: 20px;
+}
